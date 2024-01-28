@@ -35,3 +35,9 @@ body {
     font-weight: normal;
     font-size: 0.8em;
 }
+#colorrojo {
+    color: crimson;
+}
+#colorverde {
+    color: chartreuse;
+}
