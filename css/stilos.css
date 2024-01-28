@@ -18,3 +18,10 @@ body {
 #container h1 {
     font-size: 20px;
 }
+
+#colorrojo {
+    color: crimson;
+}
+#colorverde {
+    color: rgb(20, 220, 70);
+}
