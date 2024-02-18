@@ -18,12 +18,15 @@ body {
 #container h1 {
     font-size: 20px;
 }
-#paginainicio{
+
+#paginainicio {
     color: blue;
 }
-#paginacolor{
+
+#paginacolor {
     color: rgb(255, 0, 21);
 }
+
 #cabecera {
     background: #33A;
     box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.75);
@@ -33,17 +36,25 @@ body {
     padding: 1em;
 }
 
+#cabecera #logo {
+    width: 20px;
+    vertical-align: middle;
+}
+
 #cabecera #tagline {
     padding: 1em 0 0 0;
     font-weight: normal;
     font-size: 0.8em;
 }
+
 #colorrojo {
     color: crimson;
 }
+
 #colorverde {
     color: chartreuse;
 }
+
 #cabeceracolor {
     background: #33A;
     box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.75);
@@ -58,9 +69,11 @@ body {
     font-weight: normal;
     font-size: 0.8em;
 }
+
 #coloramarillo {
     color: rgb(190, 220, 20);
 }
+
 #colorazul {
     color: rgb(28, 18, 165);
 }
